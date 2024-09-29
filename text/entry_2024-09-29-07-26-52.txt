@@ -1,0 +1,6 @@
+Time: 2024-09-29 07:25:18
+
+Summary: Creating an AI-powered journal for easy maintenance and interaction, utilizing semantic ideas and offline storage.
+
+Actual text:
+The main idea we'll have to solve is try and create a journal which is easy for people to maintain and interact with. One of the problems that people face with dealing with a big journal is trying to go through it again. Imagine that you have a book and then you've been writing it for a very long time. You do not have the time to go through it over and over again. You need something that has a semantic idea of what you were speaking about on a particular day. That is where AI comes in and it not only formats and curates your dataset and stores it in a vector database locally. You can also chat with it. This idea is very simple and the innovative aspect is the offline aspect which is completely on your device. It doesn't go anywhere, it doesn't leave your device and you don't have to worry about privacy.
